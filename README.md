@@ -1,6 +1,6 @@
 <img src="https://github.com/Ashish7411/Popkin-player/blob/main/cover.png" width="1200" >
 
-# Harmony Music
+# Popkin player
 A cross platform app for music streaming made with Flutter(Android, Windows, linux).
 
 # Features
